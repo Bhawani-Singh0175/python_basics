@@ -1,5 +1,4 @@
 🐍 Python-Basics
-
 Welcome to Python-Basics 👋
 This repository is created for beginners who want to learn Python step by step.
 The code is organized from basic concepts to advanced concepts to make learning easy and smooth.
