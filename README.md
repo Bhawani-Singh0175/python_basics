@@ -24,7 +24,7 @@ Topics covered:
 
     Clone the repository
 
-    git clone https://github.com/mynkaiml/Python-Basics.git
+    git clone https://github.com/Bhawani-Singh0175/python_basics.git
 
      Open the project
 
