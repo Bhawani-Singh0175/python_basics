@@ -11,6 +11,7 @@ This folder contains core Python fundamentals.
 If you are new to Python, start with this folder first.
 Topics covered:
 
+
     Python syntax basics
     Variables and data types
     Input and output (input(), print())
